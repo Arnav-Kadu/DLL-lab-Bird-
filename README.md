@@ -1,0 +1,1 @@
+Not main repo for the model , first I tried to work with the most basic model Resnet50 which failed because I was getting the error that I didnt knew how to resolve, resolved that error the model is working fine. so worked on InceptionV model
